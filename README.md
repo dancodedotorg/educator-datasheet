@@ -10,6 +10,16 @@
 - **Where can the original dataset be found?**
 - **(If applicable:) Where can the datasheet for the original dataset be found?**
 
+## METADATA
+
+| Column Name      | Data Type (Number, String, Boolean) | Description in student-friendly terms. |
+| ----------- | ----------- | ----------- |
+|             |             |             |
+|             |             |             |
+|             |             |             |
+
+(Add more rows as necessary!
+
 ## MOTIVATION
 - **For what purpose was the _original_ dataset created?**
 - **For what purpose was the _derived_ dataset created?**
